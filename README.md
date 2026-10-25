@@ -1,6 +1,12 @@
 # Automatisoi data-analytiikkaa
 
-Moduuli **ana.py** sisältää helppokäyttöisiä funktioita kuvailevaan ja selittävään analytiikkaan. Funktioiden käytön opit **ana.ipynb**-muistion esimerkeistä. Lataa tämä repository omalle koneellesi, niin pääset käyttämään funktioita. Jos et ole aiemmin ladannut repostitorya githubista, niin lue ohje https://tilastoapu.wordpress.com/2018/11/27/github-esimerkit-omalle-koneelle/. Koodin suorittamiseksi omalle koneelle pitää olla asennettu Python, Jupyter Notebook, numpy, pandas ja xlwings; katso https://tilastoapu.wordpress.com/2017/12/13/asenna-anaconda-2/.
+Moduuli **ana.py** sisältää helppokäyttöisiä funktioita kuvailevaan ja selittävään analytiikkaan. 
+
+Funktioiden käytön opit **ana.ipynb**-muistion esimerkeistä. 
+
+Lataa tämä repository omalle koneellesi, niin pääset käyttämään funktioita. Jos et ole aiemmin ladannut repostitorya githubista, niin lue ohje https://tilastoapu.wordpress.com/2018/11/27/github-esimerkit-omalle-koneelle/. 
+
+Koodin suorittamiseksi omalle koneelle pitää olla asennettu Python, Jupyter Notebook, pandas ja xlwings; katso https://tilastoapu.wordpress.com/2017/12/13/asenna-anaconda-2/.
 
 ## Laske keskeiset kuvailevan ja selittävän analytiikan tulokset suoraan Excel-tiedostoon
 
